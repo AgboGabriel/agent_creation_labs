@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "18:58:54",
+    "zone": "Downtown",
+    "event": "earthquake_low",
+    "details": {
+      "zone_id": 1,
+      "name": "Downtown",
+      "disaster": "earthquake",
+      "severity": "low",
+      "temperature": 25.4,
+      "humidity": 48.5,
+      "wind_speed": 8.2,
+      "last_update": "18:58:54",
+      "risk_level": 0.22499999999999998
+    }
+  },
+  {
+    "timestamp": "18:58:54",
+    "zone": "Residential",
+    "event": "earthquake_medium",
+    "details": {
+      "zone_id": 2,
+      "name": "Residential",
+      "disaster": "earthquake",
+      "severity": "medium",
+      "temperature": 22.8,
+      "humidity": 24.8,
+      "wind_speed": 9.2,
+      "last_update": "18:58:54",
+      "risk_level": 0.16
+    }
+  },
+  {
+    "timestamp": "18:58:54",
+    "zone": "Industrial",
+    "event": "earthquake_medium",
+    "details": {
+      "zone_id": 3,
+      "name": "Industrial",
+      "disaster": "earthquake",
+      "severity": "medium",
+      "temperature": 26.3,
+      "humidity": 60.2,
+      "wind_speed": 1.3,
+      "last_update": "18:58:54",
+      "risk_level": 0.5
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "18:58:39",
+    "sensor_id": "Sensor-001",
+    "readings": [
+      {
+        "zone_id": 1,
+        "name": "Downtown",
+        "disaster": "none",
+        "severity": "normal",
+        "temperature": 25.0,
+        "humidity": 50.0,
+        "wind_speed": 10.0,
+        "last_update": "18:58:39",
+        "risk_level": 0.15
+      },
+      {
+        "zone_id": 2,
+        "name": "Residential",
+        "disaster": "none",
+        "severity": "normal",
+        "temperature": 25.0,
+        "humidity": 50.0,
+        "wind_speed": 10.0,
+        "last_update": "18:58:39",
+        "risk_level": 0.08
+      },
+      {
+        "zone_id": 3,
+        "name": "Industrial",
+        "disaster": "none",
+        "severity": "normal",
+        "temperature": 25.0,
+        "humidity": 50.0,
+        "wind_speed": 10.0,
+        "last_update": "18:58:39",
+        "risk_level": 0.25
+      },
+      {
+        "zone_id": 4,
+        "name": "Coastal",
+        "disaster": "none",
+        "severity": "normal",
+        "temperature": 25.0,
+        "humidity": 50.0,
+        "wind_speed": 10.0,
+        "last_update": "18:58:39",
+        "risk_level": 0.2
+      },
+      {
+        "zone_id": 5,
+        "name": "Rural",
+        "disaster": "none",
+        "severity": "normal",
+        "temperature": 25.0,
+        "humidity": 50.0,
+        "wind_speed": 10.0,
+        "last_update": "18:58:39",
+        "risk_level": 0.05
+      }
+    ]
+  }
+]
