@@ -1,50 +1,50 @@
 [
   {
-    "timestamp": "18:58:59",
+    "timestamp": "20:23:59",
+    "zone": "Residential",
+    "event": "earthquake_low",
+    "details": {
+      "zone_id": 2,
+      "name": "Residential",
+      "disaster": "earthquake",
+      "severity": "low",
+      "temperature": 26.8,
+      "humidity": 53.5,
+      "wind_speed": 5.7,
+      "last_update": "20:23:59",
+      "risk_level": 0.12
+    }
+  },
+  {
+    "timestamp": "20:23:59",
     "zone": "Industrial",
-    "event": "earthquake_medium",
+    "event": "earthquake_low",
     "details": {
       "zone_id": 3,
       "name": "Industrial",
       "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 28.0,
-      "humidity": 56.5,
-      "wind_speed": 0,
-      "last_update": "18:58:59",
-      "risk_level": 0.5
+      "severity": "low",
+      "temperature": 26.2,
+      "humidity": 51.8,
+      "wind_speed": 6.8,
+      "last_update": "20:23:59",
+      "risk_level": 0.375
     }
   },
   {
-    "timestamp": "18:59:04",
-    "zone": "Downtown",
-    "event": "earthquake_medium",
+    "timestamp": "20:23:59",
+    "zone": "Coastal",
+    "event": "earthquake_low",
     "details": {
-      "zone_id": 1,
-      "name": "Downtown",
+      "zone_id": 4,
+      "name": "Coastal",
       "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 22.2,
-      "humidity": 48.8,
-      "wind_speed": 10.2,
-      "last_update": "18:59:04",
-      "risk_level": 0.3
-    }
-  },
-  {
-    "timestamp": "18:59:04",
-    "zone": "Industrial",
-    "event": "earthquake_medium",
-    "details": {
-      "zone_id": 3,
-      "name": "Industrial",
-      "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 27.7,
-      "humidity": 56.0,
-      "wind_speed": 3.3,
-      "last_update": "18:59:04",
-      "risk_level": 0.5
+      "severity": "low",
+      "temperature": 23.7,
+      "humidity": 35.3,
+      "wind_speed": 14.0,
+      "last_update": "20:23:59",
+      "risk_level": 0.30000000000000004
     }
   }
 ]

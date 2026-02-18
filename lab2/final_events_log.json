@@ -1,22 +1,22 @@
 [
   {
-    "timestamp": "18:58:44",
-    "zone": "Downtown",
+    "timestamp": "20:23:34",
+    "zone": "Coastal",
     "event": "earthquake_low",
     "details": {
-      "zone_id": 1,
-      "name": "Downtown",
+      "zone_id": 4,
+      "name": "Coastal",
       "disaster": "earthquake",
       "severity": "low",
       "temperature": 25.5,
-      "humidity": 53.5,
-      "wind_speed": 6.4,
-      "last_update": "18:58:44",
-      "risk_level": 0.22499999999999998
+      "humidity": 48.5,
+      "wind_speed": 13.6,
+      "last_update": "20:23:34",
+      "risk_level": 0.30000000000000004
     }
   },
   {
-    "timestamp": "18:58:44",
+    "timestamp": "20:23:39",
     "zone": "Industrial",
     "event": "earthquake_low",
     "details": {
@@ -24,31 +24,95 @@
       "name": "Industrial",
       "disaster": "earthquake",
       "severity": "low",
-      "temperature": 27.7,
-      "humidity": 56.3,
-      "wind_speed": 5.7,
-      "last_update": "18:58:44",
+      "temperature": 27.4,
+      "humidity": 51.9,
+      "wind_speed": 8.0,
+      "last_update": "20:23:39",
       "risk_level": 0.375
     }
   },
   {
-    "timestamp": "18:58:49",
-    "zone": "Downtown",
+    "timestamp": "20:23:39",
+    "zone": "Coastal",
     "event": "earthquake_low",
     "details": {
-      "zone_id": 1,
-      "name": "Downtown",
+      "zone_id": 4,
+      "name": "Coastal",
       "disaster": "earthquake",
       "severity": "low",
-      "temperature": 25.7,
-      "humidity": 57.5,
-      "wind_speed": 10.4,
-      "last_update": "18:58:49",
-      "risk_level": 0.22499999999999998
+      "temperature": 24.2,
+      "humidity": 55.4,
+      "wind_speed": 15.8,
+      "last_update": "20:23:39",
+      "risk_level": 0.30000000000000004
     }
   },
   {
-    "timestamp": "18:58:49",
+    "timestamp": "20:23:44",
+    "zone": "Industrial",
+    "event": "earthquake_low",
+    "details": {
+      "zone_id": 3,
+      "name": "Industrial",
+      "disaster": "earthquake",
+      "severity": "low",
+      "temperature": 25.6,
+      "humidity": 57.4,
+      "wind_speed": 5.8,
+      "last_update": "20:23:44",
+      "risk_level": 0.375
+    }
+  },
+  {
+    "timestamp": "20:23:44",
+    "zone": "Coastal",
+    "event": "earthquake_low",
+    "details": {
+      "zone_id": 4,
+      "name": "Coastal",
+      "disaster": "earthquake",
+      "severity": "low",
+      "temperature": 26.0,
+      "humidity": 55.9,
+      "wind_speed": 15.2,
+      "last_update": "20:23:44",
+      "risk_level": 0.30000000000000004
+    }
+  },
+  {
+    "timestamp": "20:23:49",
+    "zone": "Industrial",
+    "event": "earthquake_low",
+    "details": {
+      "zone_id": 3,
+      "name": "Industrial",
+      "disaster": "earthquake",
+      "severity": "low",
+      "temperature": 25.0,
+      "humidity": 53.9,
+      "wind_speed": 6.2,
+      "last_update": "20:23:49",
+      "risk_level": 0.375
+    }
+  },
+  {
+    "timestamp": "20:23:49",
+    "zone": "Coastal",
+    "event": "earthquake_low",
+    "details": {
+      "zone_id": 4,
+      "name": "Coastal",
+      "disaster": "earthquake",
+      "severity": "low",
+      "temperature": 24.1,
+      "humidity": 45.9,
+      "wind_speed": 12.1,
+      "last_update": "20:23:49",
+      "risk_level": 0.30000000000000004
+    }
+  },
+  {
+    "timestamp": "20:23:54",
     "zone": "Residential",
     "event": "earthquake_low",
     "details": {
@@ -56,15 +120,15 @@
       "name": "Residential",
       "disaster": "earthquake",
       "severity": "low",
-      "temperature": 24.5,
-      "humidity": 26.4,
-      "wind_speed": 9.8,
-      "last_update": "18:58:49",
+      "temperature": 25.3,
+      "humidity": 47.8,
+      "wind_speed": 8.4,
+      "last_update": "20:23:54",
       "risk_level": 0.12
     }
   },
   {
-    "timestamp": "18:58:49",
+    "timestamp": "20:23:54",
     "zone": "Industrial",
     "event": "earthquake_low",
     "details": {
@@ -72,123 +136,75 @@
       "name": "Industrial",
       "disaster": "earthquake",
       "severity": "low",
-      "temperature": 28.2,
-      "humidity": 52.0,
-      "wind_speed": 2.3,
-      "last_update": "18:58:49",
+      "temperature": 25.2,
+      "humidity": 58.7,
+      "wind_speed": 10.2,
+      "last_update": "20:23:54",
       "risk_level": 0.375
     }
   },
   {
-    "timestamp": "18:58:54",
-    "zone": "Downtown",
+    "timestamp": "20:23:54",
+    "zone": "Coastal",
     "event": "earthquake_low",
     "details": {
-      "zone_id": 1,
-      "name": "Downtown",
+      "zone_id": 4,
+      "name": "Coastal",
       "disaster": "earthquake",
       "severity": "low",
-      "temperature": 25.4,
-      "humidity": 48.5,
-      "wind_speed": 8.2,
-      "last_update": "18:58:54",
-      "risk_level": 0.22499999999999998
+      "temperature": 25.0,
+      "humidity": 36.0,
+      "wind_speed": 14.0,
+      "last_update": "20:23:54",
+      "risk_level": 0.30000000000000004
     }
   },
   {
-    "timestamp": "18:58:54",
+    "timestamp": "20:23:59",
     "zone": "Residential",
-    "event": "earthquake_medium",
+    "event": "earthquake_low",
     "details": {
       "zone_id": 2,
       "name": "Residential",
       "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 22.8,
-      "humidity": 24.8,
-      "wind_speed": 9.2,
-      "last_update": "18:58:54",
-      "risk_level": 0.16
+      "severity": "low",
+      "temperature": 26.8,
+      "humidity": 53.5,
+      "wind_speed": 5.7,
+      "last_update": "20:23:59",
+      "risk_level": 0.12
     }
   },
   {
-    "timestamp": "18:58:54",
+    "timestamp": "20:23:59",
     "zone": "Industrial",
-    "event": "earthquake_medium",
-    "details": {
-      "zone_id": 3,
-      "name": "Industrial",
-      "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 26.3,
-      "humidity": 60.2,
-      "wind_speed": 1.3,
-      "last_update": "18:58:54",
-      "risk_level": 0.5
-    }
-  },
-  {
-    "timestamp": "18:58:59",
-    "zone": "Downtown",
     "event": "earthquake_low",
     "details": {
-      "zone_id": 1,
-      "name": "Downtown",
+      "zone_id": 3,
+      "name": "Industrial",
       "disaster": "earthquake",
       "severity": "low",
-      "temperature": 24.1,
-      "humidity": 45.2,
-      "wind_speed": 11.1,
-      "last_update": "18:58:59",
-      "risk_level": 0.22499999999999998
+      "temperature": 26.2,
+      "humidity": 51.8,
+      "wind_speed": 6.8,
+      "last_update": "20:23:59",
+      "risk_level": 0.375
     }
   },
   {
-    "timestamp": "18:58:59",
-    "zone": "Industrial",
-    "event": "earthquake_medium",
+    "timestamp": "20:23:59",
+    "zone": "Coastal",
+    "event": "earthquake_low",
     "details": {
-      "zone_id": 3,
-      "name": "Industrial",
+      "zone_id": 4,
+      "name": "Coastal",
       "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 28.0,
-      "humidity": 56.5,
-      "wind_speed": 0,
-      "last_update": "18:58:59",
-      "risk_level": 0.5
-    }
-  },
-  {
-    "timestamp": "18:59:04",
-    "zone": "Downtown",
-    "event": "earthquake_medium",
-    "details": {
-      "zone_id": 1,
-      "name": "Downtown",
-      "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 22.2,
-      "humidity": 48.8,
-      "wind_speed": 10.2,
-      "last_update": "18:59:04",
-      "risk_level": 0.3
-    }
-  },
-  {
-    "timestamp": "18:59:04",
-    "zone": "Industrial",
-    "event": "earthquake_medium",
-    "details": {
-      "zone_id": 3,
-      "name": "Industrial",
-      "disaster": "earthquake",
-      "severity": "medium",
-      "temperature": 27.7,
-      "humidity": 56.0,
-      "wind_speed": 3.3,
-      "last_update": "18:59:04",
-      "risk_level": 0.5
+      "severity": "low",
+      "temperature": 23.7,
+      "humidity": 35.3,
+      "wind_speed": 14.0,
+      "last_update": "20:23:59",
+      "risk_level": 0.30000000000000004
     }
   }
 ]
